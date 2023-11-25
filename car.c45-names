@@ -4,3 +4,4 @@ doors:    2 3 4 5 more
 persons:  2 4 more
 lug_boot: small med big
 safety:   low med high
+label: unacc acc good vgood
